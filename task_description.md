@@ -13,7 +13,7 @@ We have a sample task for you.
 3. Initially, do not spend too much thinking about the design. Just spend 5-10 minutes to finalize the idea. Another 15-30 minutes to search for a similar website design and start working on the project. If needed, put a placeholder image and keep developing the functionalities. Once the functionalities are implemented, come back to add relevant images. 
 
 ### Task Details: 
-1. Home page will have a header (simple navbar), banner, items (inventory items that you are managing. Minimum 6 items), and footer.
+1. Home page will have a header (simple navbar), banner, items (inventory items that you are managing. Maximum 6 items), and footer.
 
 2. Add two extra sections on the home page and the four sections mentioned above. Tips: This is the place to shine. Add something different and unique to make your website looks different than others. And Make them relevant to your website.
 
@@ -69,9 +69,8 @@ We have a sample task for you.
 3. On the `Manage Inventory`, create many items by duplicating your items and implementing pagination. 
 
 
-## optional
-1. On the `add Item` page, try to implement direct image upload from your computer. This image can be hosted on third-party image hosting like imgbb or directly to mongodb. Give it a try. Don't worry. We will show this in our upcoming modules. 
-4. Add some animation while applicable.
+## Optional
+1. Add some animation while applicable.
 5. Please Use icons whenever applicable and use fonts (google fonts). For example, for delete, you can use the delete icon. To add an item, you can use an add icon.
 6. Make the footer a little more realistic
 7. Optimize your images
@@ -79,6 +78,7 @@ We have a sample task for you.
 9. Also, if you want, you can use mongoose.
 10. If possible, replace the default react favicon and give an icon for your website. 
 11. using `axios` is optional. If you are using axios, make sure you use the earlier version.
+12. If possible give `swr` or `react-query` a try. This will be helpful in the future. 
 
 
 ### Additional information:
@@ -87,7 +87,6 @@ We have a sample task for you.
 4. If needed, you can mix CSS framework with a component library
 5. You may use `react hook form`, basic html form, or any library for authentication
 6. Local storage is optional
-7. Client-side Environment variable is recommended but optional.
 8. Try to host your site on Firebase (Netlify host will need extra configuration)
 9. Try to host your server on Heroku
 
