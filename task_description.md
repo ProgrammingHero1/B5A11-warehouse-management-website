@@ -105,4 +105,6 @@ We have a sample task for you.
 6. Keep incremental deploy to firebase as well.
 7. Do not copy-paste code from anywhere. Write your code and put your best effort into this assignment.
 
-Eid Mubarak!!!
+## Eid Mubarak!!!
+
+![Eid Mubarak](./images/eid.png)
